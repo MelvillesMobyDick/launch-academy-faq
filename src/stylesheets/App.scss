@@ -1,0 +1,40 @@
+/* YOUR STYLING HERE */
+
+body {
+  background-color: #E5F3F4;
+}
+
+.faq-heading {
+  color: #39BDCA;
+  font-size: 4rem;
+}
+
+.faq-container {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+li {
+  list-style: none;
+}
+
+i {
+  text-shadow: 2px 2px 2px #ccc;
+  margin-right: 0.5rem;
+}
+
+.question {
+  font-size: 2rem;
+}
+
+.answer {
+  font-size: 1.5rem;
+}
+
+.selected {
+  color: #84CE15;
+}
+
+.question_answer {
+  border-bottom: 1px solid black;
+}
